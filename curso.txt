@@ -1,0 +1,10 @@
+3001;Dibujo;0;0;5;17
+3002;Comunicacion;4;0;3;19
+3003;Desarrollo Web;2;2;2;20
+3004;Administracion;3;2;4;20
+3005;Manualidades;1;0;1;17
+3006;Literatura;4;0;2;20
+3007;Base de Datos;2;1;4;19
+3008;Tecnologias de Informacion;2;2;2;17
+3009;Marketing;3;2;3;20
+3010;Habilidades;4;2;4;20
